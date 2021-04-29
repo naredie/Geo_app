@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "Chiva",
+        "code": 14001,
+        "coordinates": [
+            39.4836127, -0.7342299
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Paterna",
+        "code": 14002,
+        "coordinates": [
+            39.5322909, -0.4731484
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Betera",
+        "code": 14003,
+        "coordinates": [
+            39.5853012, -0.4744285
+        ]
+    }
+]
