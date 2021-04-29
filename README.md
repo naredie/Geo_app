@@ -7,10 +7,10 @@ busca las incidencias del pueblo especificado y lista todas las incidencias, red
 
 Tenemos un boton para cargar las ortofotos y otro boton para cargar una capa de poligonos.
 
-En el futuro se plantea hacer que se muestren puntos en las coordenadas de la incidencia asi como una diferenciacion por urgencia de la incidencia.
+En el futuro se plantea hacer que se muestren puntos en las coordenadas de la incidencia asi como una diferenciación por urgencia de la incidencia.
 Tambien se quieren hacer pruebas para cargar rutas.
 
-tecnologias utilizadas:
+Tecnologias utilizadas:
 React
 NodeJS
 react-leaflet
