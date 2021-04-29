@@ -1,4 +1,4 @@
-# Gestor de incidencias Geo App:
+# Gestor de incidencias Geo App utilizando react-leaflet:
 
 Esto es un demo de un gestor de incidencias. 
 Aparece un mapa centrado en valencia.
@@ -9,3 +9,12 @@ Tenemos un boton para cargar las ortofotos y otro boton para cargar una capa de 
 
 En el futuro se plantea hacer que se muestren puntos en las coordenadas de la incidencia asi como una diferenciacion por urgencia de la incidencia.
 Tambien se quieren hacer pruebas para cargar rutas.
+
+tecnologias utilizadas:
+React
+NodeJS
+react-leaflet
+JavaScript
+HTML
+CSS
+
